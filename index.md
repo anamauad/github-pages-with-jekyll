@@ -1,5 +1,12 @@
 ---
-title: "Welcome to my blog"
+title: "<Aqui vai o título geral>"
 ---
 
-I'm glad you are here. I plan to talk about ...
+<Aqui vai o conteúdo>
+
+### É necessário definir / adicionar
+
+- Título geral
+- Conteúdo
+- O tema geral
+
